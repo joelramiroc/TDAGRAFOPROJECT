@@ -1,0 +1,236 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/CMakeFiles/header.cpp
+header.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/CMakeFiles/header.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/CMakeFiles/header.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Arista.cpp
+../hd/Arista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Arista.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/ArrayList.cpp
+../hd/ArrayList.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/ArrayList.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/CirculoVertice.cpp
+../hd/CirculoVertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/CirculoVertice.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Cola.cpp
+../hd/Cola.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Cola.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/DragWidget.cpp
+../hd/DragWidget.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/DragWidget.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Grafo.cpp
+../hd/Grafo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Grafo.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Information.cpp
+../hd/Information.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Information.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Lista.cpp
+../hd/Lista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Lista.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Nodo.cpp
+../hd/Nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Nodo.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Pila.cpp
+../hd/Pila.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Pila.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Vertice.cpp
+../hd/Vertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Vertice.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/main.cpp
+iostream
+-
+../hd/DragWidget.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/DragWidget.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Arista.h
+iostream
+-
+vertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/vertice.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/ArrayList.h
+iostream
+-
+nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/nodo.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/CirculoVertice.h
+iostream
+-
+cstring
+-
+grafo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/grafo.h
+Vertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Vertice.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Cola.h
+nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/nodo.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/DragWidget.h
+math.h
+-
+time.h
+-
+cString
+-
+grafo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/grafo.h
+arraylist.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/arraylist.h
+circulovertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/circulovertice.h
+Information.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Information.h
+circulovertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/circulovertice.h
+pila.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/pila.h
+cola.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/cola.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Grafo.h
+iostream
+-
+queue
+-
+list
+-
+stack
+-
+vertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/vertice.h
+arista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/arista.h
+lista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/lista.h
+nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/nodo.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Information.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Lista.h
+Nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Nodo.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Nodo.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Pila.h
+Nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Nodo.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Vertice.h
+arista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/arista.h
+lista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/lista.h
+circulovertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/circulovertice.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/arista.h
+iostream
+-
+vertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/vertice.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/arraylist.h
+iostream
+-
+nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/nodo.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/circulovertice.h
+iostream
+-
+cstring
+-
+grafo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/grafo.h
+Vertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Vertice.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/cola.h
+nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/nodo.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/grafo.h
+iostream
+-
+queue
+-
+list
+-
+stack
+-
+vertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/vertice.h
+arista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/arista.h
+lista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/lista.h
+nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/nodo.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/lista.h
+Nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Nodo.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/nodo.h
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/pila.h
+Nodo.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Nodo.h
+iostream
+-
+
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/vertice.h
+arista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/arista.h
+lista.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/lista.h
+circulovertice.h
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/circulovertice.h
+iostream
+-
+

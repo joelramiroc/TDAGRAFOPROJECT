@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GrafoProyecto"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GrafoProyecto">
+				<Option output="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/GrafoProyecto.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 GrafoProyecto"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GrafoProyecto/fast">
+				<Option output="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/GrafoProyecto.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.1.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 GrafoProyecto/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/CMakeFiles/header.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/CMakeFiles/header.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Arista.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/ArrayList.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/CirculoVertice.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Cola.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/DragWidget.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Grafo.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Information.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Lista.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Nodo.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Pila.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/Vertice.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/cpp/main.cpp">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Arista.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/ArrayList.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/CirculoVertice.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Cola.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/DragWidget.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Grafo.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Information.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Lista.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Nodo.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Pila.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/hd/Vertice.h">
+			<Option target="GrafoProyecto"/>
+		</Unit>
+		<Unit filename="C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

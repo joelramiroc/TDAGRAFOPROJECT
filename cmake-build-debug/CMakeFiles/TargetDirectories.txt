@@ -1,0 +1,3 @@
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/CMakeFiles/GrafoProyecto.dir
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL 5040 I7/CLionProjects/GrafoProyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
